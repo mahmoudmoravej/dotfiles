@@ -1,0 +1,5 @@
+# This is Git's per-user configuration file.
+
+[user]
+    name = Hussein Hegazy
+    email = hussein.hegazy@shopify.com
